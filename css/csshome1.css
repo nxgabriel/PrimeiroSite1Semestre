@@ -1,0 +1,72 @@
+#Home {
+    height: 600px;
+    background-image: url(../img/eeng.jpg);
+    background-size: cover;
+}
+
+.nav-link {
+    color: #5f5f5f !important;
+}
+
+.navbar-brand {
+    color: #545454 !important;
+}
+
+#definicao {
+    padding: 80px 0;
+}
+
+#definicao img {
+    width: 250px;
+    display: block;
+    margin: 20px auto;
+}
+
+.p-j {
+    text-align: justify;
+    background: white;
+}
+
+.bg-codigo {
+    background: url(../img/definicao3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#hist {
+    padding: 80px 0;
+}
+
+.copy2 {
+    text-align: left!important;
+    padding: 25px 0;
+    display: inline;
+}
+
+.imgsizex {
+    width: 60px;
+    display: inline-block;
+    margin: 0 24px 10px 0;
+}
+
+.proc {
+    width: 80%;
+    display: block;
+    margin: 20px auto;
+}
+
+.xit {
+    padding: 0 0 20px;
+}
+
+body {
+    background: #e8e8e8;
+}
+
+.fundowhite {
+    background: white;
+}
+
+.fin {
+    padding: 80px 0;
+}
